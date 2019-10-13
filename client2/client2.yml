@@ -1,5 +1,5 @@
 message:
-  bye: client2
+  bye: client22
 management:
   security:
     enabled: false

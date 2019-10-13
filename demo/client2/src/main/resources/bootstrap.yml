@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: client2
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: http://localhost:8881
+      #RabbitMQ connection details
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest

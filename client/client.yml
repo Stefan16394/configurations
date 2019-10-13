@@ -1,8 +1,8 @@
 name: stefko
-management: 
-    security: 
-        enabled: false
-    endpoints:
-        web: 
-         exposure: 
-            include: *
+management:
+  security:
+    enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: *

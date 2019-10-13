@@ -1,4 +1,5 @@
-message: client2
+message:
+  bye: client2
 management:
   security:
     enabled: false

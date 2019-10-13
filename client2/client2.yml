@@ -1,4 +1,4 @@
-name: client2
+message: client2
 management:
   security:
     enabled: false

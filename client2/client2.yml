@@ -1,8 +1,9 @@
-name: client2
+message:
+  bye: client22
 management:
   security:
     enabled: false
   endpoints:
     web:
       exposure:
-        include: *
+        include: "*"

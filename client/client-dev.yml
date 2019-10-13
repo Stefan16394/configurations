@@ -2,4 +2,4 @@ server:
   port: 8092
 message:
   hello: hello
-  bye: bye
+  bye: byeagain

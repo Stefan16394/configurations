@@ -1,4 +1,3 @@
-name: stefko
 management:
   security:
     enabled: false

@@ -7,5 +7,4 @@ spring:
         git:
           uri: https://github.com/Stefan16394/configurations.git
           search-paths:
-            - client
-            - client2
+            - '{application}'

@@ -1,5 +1,5 @@
 message:
-  bye: djemi n1
+  hi: hello
 management:
   security:
     enabled: false

@@ -1,5 +1,5 @@
 message:
-  hi: hello2
+  hi: hello2d
 management:
   security:
     enabled: false
